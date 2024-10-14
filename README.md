@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer and a Teaching Assistant!!
+## I'm a Software Engineer and a Teaching Assistant!!
 
 - 🌱 I’m currently learning everything about Computer Science 🤣
 - 👯 I’m looking to collaborate with other software developers
