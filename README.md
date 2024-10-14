@@ -2,11 +2,11 @@
 
 
 
-## I'm a  Developer and a Teaching Assistant!!
+## I'm a Developer and a Teaching Assistant!!
 
 - 🌱 I’m currently learning everything about Computer Science 🤣
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about programming
+- 🥅 2024 Goals: Learn more about programming
 - 😻 Fun fact: I love to play basketball and badminton
 
 <br />
