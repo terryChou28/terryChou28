@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C++" width="26px" src="http://www.w3.org/2000/svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="[http://www.w3.org/2000/svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/cplusplus.svg)" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Racket" width="26px" src="https://racket-lang.org/img/racket-logo.svg" 
 style="padding-right:10px;" />
